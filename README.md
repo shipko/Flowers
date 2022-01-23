@@ -1,2 +1,4 @@
 # Flowers
-dlfkjglfkchjglkhmclgkhj
+
+Проект веб версии цветников, где pdf генерируется с помощью web браузера. Ghbdtn
+
